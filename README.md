@@ -1,10 +1,11 @@
+<h3 align="left">AEGA/Emmanuel168</h3>****
 <p align="left">
-Hi 👋! My name is Armando Emmanuel Gómez Almaraz. I’m studying Multiplatform Software Development at Universidad Tecnológica Tula-Tepeji. I’m currently in the process of becoming a Full Stack developer, building skills across frontend, backend and databases, focused on creating functional and scalable solutions.
+Hi 👋! My name is Armando Emmanuel Gomez Almaraz. I’m studying Multiplatform Software Development at Universidad Tecnológica Tula-Tepeji. I’m currently in the process of becoming a Full Stack developer, building skills across frontend, backend and databases, focused on creating functional and scalable solutions.
 </p>
 
 ###
 
-<h3 align="left">🌐 Mis redes sociales</h3>
+<h3 align="left">🌐 My social networks</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -17,7 +18,7 @@ Hi 👋! My name is Armando Emmanuel Gómez Almaraz. I’m studying Multiplatfor
 
 ###
 
-<h3 align="left">💻 Mi stack</h3>
+<h3 align="left">💻 My stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
