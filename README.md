@@ -26,7 +26,7 @@ Hi 👋! My name is Armando Emmanuel Gomez Almaraz. I’m studying Multiplatform
   </a>
 
   <a href="https://www.instagram.com/emmanuel168_?igsh=bWN0NXZlNnUwaHYw" target="_blank">
-    <img src="" width="52" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
 
   <a href="mailto:a.emmanuel.gomez@gmail.com">
