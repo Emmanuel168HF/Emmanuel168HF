@@ -1,12 +1,12 @@
 <h3 align="left">AEGA / Emmanuel168</h3>
 
 <p align="left">
-Hi 👋! My name is Armando Emmanuel Gomez Almaraz. I’m studying Multiplatform Software Development at Universidad Tecnológica Tula-Tepeji. I’m currently in the process of becoming a Full Stack developer, building skills across frontend, backend and databases, focused on creating functional and scalable solutions.
+Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de software Universidad Tecnológica Tula-Tepeji. Actualmente estoy en proceso de convertirme en desarrollador Full Stack, desarrollando habilidades en frontend, backend y bases de datos, enfocado en crear soluciones funcionales y escalables (desde 2021 asta la fecha 2026).
 </p>
 
 ###
 
-<h3 align="left">🌐 My social networks</h3>
+<h3 align="left">🌐 Mis Redes Sociales</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/armando-emmanuel-gomez-almaraz-03503a374/" target="_blank">
@@ -21,7 +21,7 @@ Hi 👋! My name is Armando Emmanuel Gomez Almaraz. I’m studying Multiplatform
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
   </a>
 
-  <a href="https://youtube.com/@emmanuel168_?si=2frsDe1AXMoU3GYH" target="_blank">
+  <a href="https://www.youtube.com/channel/UCyleduiLWISFN6vkcs5AJsg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
   </a>
 
