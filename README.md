@@ -1,7 +1,9 @@
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/080dab7c-7d63-4ca2-bc3a-e84fe872c7e8" /><h3 align="left">AEGA / Emmanuel168</h3>
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/080dab7c-7d63-4ca2-bc3a-e84fe872c7e8" />
+
+<h3 align="left">AEGA / Emmanuel168</h3>
 
 <p align="left">
-Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de software Universidad Tecnológica Tula-Tepeji. Actualmente estoy en proceso de convertirme en desarrollador Full Stack, desarrollando habilidades en frontend, backend y bases de datos, enfocado en crear soluciones funcionales y escalables (desde 2021 asta la fecha 2026).
+Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de Software en la Universidad Tecnológica Tula-Tepeji. Actualmente estoy en proceso de convertirme en desarrollador Full Stack, desarrollando habilidades en frontend, backend y bases de datos, enfocado en crear soluciones funcionales y escalables (desde 2021 hasta la fecha, 2026).
 </p>
 
 ###
@@ -36,9 +38,10 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
 
 ###
 
-<h3 align="left">💻 My stack (click = certificado / project)</h3>
+<h3 align="left">💻 My Stack (click = certificado / proyecto)</h3>
 
 <div align="left">
+
   <a href="https://link-a-tu-certificado-typescript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   </a>
@@ -74,43 +77,51 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
   <a href="https://www.sololearn.com/certificates/CC-49PGBCIY" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/7723d1592a0b454cb59a32cf5ab35642-SQL2.png" height="40" />
   </a>
-  
+
   <a href="https://www.sololearn.com/certificates/CC-RGXTCY4O" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/f44b8a8b2a86487e88d33b98776809e8-SEOicon.png" height="40" />
   </a>
+
   <a href="https://www.sololearn.com/certificates/CC-4H30HCK1" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/4b8ff8e82178496693406f5c95666eda-prompting.png" height="40" />
   </a>
 
-  </a>
   <a href="https://www.sololearn.com/certificates/CC-DC5RU4ZY" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/fea1c63fbd8f49419e67ad4751b3009a-EthicsIcon.png" height="40" />
   </a>
+
   <a href="https://link-a-tu-certificado-c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   </a>
 
-   <a href="https://www.sololearn.com/certificates/CC-JF8HINXR" target="_blank">
+  <a href="https://www.sololearn.com/certificates/CC-JF8HINXR" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/ef6dca9298334b54914159e23fe6060a-TechforEveryone.png" height="40" />
   </a>
+
   <a href="https://www.sololearn.com/certificates/CC-LX0YMI1I" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/a07531d17fcb4ff082e95ffe302ed1d1-writing.png" height="40" />
   </a>
+
   <a href="https://www.sololearn.com/certificates/CC-DUQOKYWL" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/f965080a9c6347959581ae057049de01-LLMs.png" height="40" />
   </a>
+
   <a href="https://www.sololearn.com/certificates/CC-4OYP2TBU" target="_blank">
     <img src="https://lecontent.sololearn.com/material-images/4bfce0b0c00e42f491a42e1501428123-MachineLearning.png" height="40" />
   </a>
+
 </div>
 
-<h3 align="left">💻 IDEs ( Entornos de desarrollo que utilizo)</h3>
+###
+
+<h3 align="left">💻 IDEs (Entornos de desarrollo que utilizo)</h3>
+
 <div align="left">
-  
+
   <a href="https://link-a-tu-certificado-android-os" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
   </a>
-  
+
   <a href="https://link-a-tu-certificado-vscode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   </a>
@@ -118,23 +129,23 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
   <a href="https://link-a-tu-certificado-windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   </a>
-  
-   <a href="https://link-a-tu-certificado-wordpress" target="_blank">
+
+  <a href="https://link-a-tu-certificado-wordpress" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
   </a>
-  
+
   <a href="https://link-a-tu-certificado-tomcat" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" />
   </a>
-  
-   <a href="https://link-a-tu-certificado-putty" target="_blank">
+
+  <a href="https://link-a-tu-certificado-putty" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" />
   </a>
 
   <a href="https://link-a-tu-certificado-xd" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
   </a>
-  
+
   <a href="https://link-a-tu-certificado-android" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
   </a>
@@ -146,6 +157,5 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
   <a href="https://link-a-tu-certificado-node" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   </a>
-</div>
-###
 
+</div>
