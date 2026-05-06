@@ -67,7 +67,7 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.sololearn.com/certificates/CC-GMZDHBYJ" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   </a>
 
@@ -87,26 +87,22 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-putty" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-tomcat" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-xd" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-wordpress" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
-  </a>
-
   <a href="https://link-a-tu-certificado-c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   </a>
 
+   <a href="https://www.sololearn.com/certificates/CC-JF8HINXR" target="_blank">
+    <img src="https://lecontent.sololearn.com/material-images/ef6dca9298334b54914159e23fe6060a-TechforEveryone.png" height="40" />
+  </a>
+</div>
+
+<h3 align="left">💻 IDEs ( Entornos de desarrollo que utilizo)</h3>
+<div align="left">
+  
+  <a href="https://link-a-tu-certificado-android-os" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  </a>
+  
   <a href="https://link-a-tu-certificado-vscode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   </a>
@@ -114,11 +110,22 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
   <a href="https://link-a-tu-certificado-windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   </a>
+  
+   <a href="https://link-a-tu-certificado-wordpress" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
+  </a>
+  
+  <a href="https://link-a-tu-certificado-tomcat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" />
+  </a>
+  
+   <a href="https://link-a-tu-certificado-putty" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" />
+  </a>
 
-  <a href="https://link-a-tu-certificado-android-os" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <a href="https://link-a-tu-certificado-xd" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
   </a>
 </div>
-
 ###
 
