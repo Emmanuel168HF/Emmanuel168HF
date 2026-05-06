@@ -1,4 +1,3 @@
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/080dab7c-7d63-4ca2-bc3a-e84fe872c7e8" />
 
 <h3 align="left">AEGA / Emmanuel168</h3>
 
