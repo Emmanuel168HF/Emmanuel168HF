@@ -75,17 +75,7 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-android" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-git" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-node" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  </a>
+  
 
   <a href="https://link-a-tu-certificado-c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
@@ -125,6 +115,18 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
 
   <a href="https://link-a-tu-certificado-xd" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
+  </a>
+  
+  <a href="https://link-a-tu-certificado-android" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
+  </a>
+
+  <a href="https://link-a-tu-certificado-git" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  </a>
+
+  <a href="https://link-a-tu-certificado-node" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   </a>
 </div>
 ###
