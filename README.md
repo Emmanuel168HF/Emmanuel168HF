@@ -36,14 +36,14 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
 
 ###
 
-<h3 align="left">💻 My stack (click = certificate / project)</h3>
+<h3 align="left">💻 My stack (click = certificado / project)</h3>
 
 <div align="left">
   <a href="https://link-a-tu-certificado-typescript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-javascript" target="_blank">
+  <a href="https://www.sololearn.com/certificates/CC-NETKDRCT" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   </a>
 
@@ -51,7 +51,7 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-java" target="_blank">
+  <a href="https://www.sololearn.com/certificates/CC-7NUSXWQI" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   </a>
 
@@ -67,7 +67,7 @@ Hola 👋! Mi nombre es Armando Emmanuel Gomez Almaraz. Estudio Desarrolo de sof
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-css" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   </a>
 
