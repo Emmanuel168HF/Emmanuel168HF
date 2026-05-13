@@ -113,20 +113,24 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
 
 ###
 
-<h3 align="left">💻 IDEs (Entornos de desarrollo que utilizo)</h3>
+<h3 align="left">💻 IDEs y Herramientas</h3>
 
 <div align="left">
-
-  <a href="https://link-a-tu-certificado-android-os" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-  </a>
 
   <a href="https://link-a-tu-certificado-vscode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-windows" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
+  <a href="https://link-a-tu-certificado-android" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
+  </a>
+
+  <a href="https://link-a-tu-certificado-git" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  </a>
+
+  <a href="https://link-a-tu-certificado-node" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   </a>
 
   <a href="https://link-a-tu-certificado-wordpress" target="_blank">
@@ -145,16 +149,20 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-android" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
+</div>
+
+###
+
+<h3 align="left">🖥️ Sistemas Operativos</h3>
+
+<div align="left">
+
+  <a href="https://link-a-tu-certificado-android-os" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
   </a>
 
-  <a href="https://link-a-tu-certificado-git" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  </a>
-
-  <a href="https://link-a-tu-certificado-node" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <a href="https://link-a-tu-certificado-windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   </a>
 
 </div>
