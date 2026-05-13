@@ -118,6 +118,10 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
 <div align="left">
 
   <a href="https://link-a-tu-certificado-vscode" target="_blank">
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" height="40" />
+  </a>
+
+  <a href="https://link-a-tu-certificado-vscode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   </a>
 
@@ -148,7 +152,14 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
   <a href="https://link-a-tu-certificado-xd" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
   </a>
+  
+  <a href="https://link-a-tu-certificado-xd" target="_blank">
+    <img src="https://p1.hiclipart.com/preview/206/523/778/slate-icon-776-256x256-icon-cheat-engine-icon-3-png-icon.jpg" height="40" />
+  </a>
 
+  <a href="https://link-a-tu-certificado-xd" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" height="40" />
+  </a>
 </div>
 
 ###
@@ -164,5 +175,12 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
   <a href="https://link-a-tu-certificado-windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   </a>
+  
+  <a href="https://link-a-tu-certificado-windows" target="_blank">
+    <img src="https://images.seeklogo.com/logo-png/38/1/apple-mac-os-logo-png_seeklogo-381401.png" height="40" />
+  </a>
 
+  <a href="https://link-a-tu-certificado-windows" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" height="40" />
+  </a>
 </div>
