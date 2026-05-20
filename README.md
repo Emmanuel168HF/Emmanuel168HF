@@ -182,5 +182,12 @@ Hola 👋! Mi nombre es Armando Emmanuel Gómez Almaraz. Estudio Desarrollo de S
 
   <a href="https://link-a-tu-certificado-windows" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" height="40" />
+
+  <a href="https://link-a-tu-certificado-windows" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" />  
+  </a>
+
+  <a href="https://link-a-tu-certificado-windows" target="_blank">
+    <img src="http://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/257914359668ab704def460fcb7fe383" height="40" />  
   </a>
 </div>
